@@ -16,6 +16,9 @@
  * Unfavourite any Video (Exploit)
    * proxy:
    * cookie:
+ * Send View to Video (V2)
+   * deviceid:
+   * installid:
  ## Interactions
  * Comment Video
    * cookie:
