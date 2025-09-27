@@ -1,44 +1,14 @@
-# TikTok API
-### Botting / Scrapping Api based on TikTok and made for your needs.
-**Make an complete TikTok Solution with our Api**
-**Contact me at https://t.me/srcxd**
-
-**联系我：https://t.me/srcxd**
-**使用我们的 API 构建完整的 TikTok 解决方案**
-
-## Interactions V2
-* Send Heart / Like to Video
-  * proxy:
-  * cookie:
-* Send Share to Video
-  * proxy:
-  * cookie:
- * Unfavourite any Video (Exploit)
-   * proxy:
-   * cookie:
- * Send View to Video (V2)
-   * deviceid:
-   * installid:
- ## Interactions
- * Comment Video
-   * cookie:
-   * text:
- * Send LIVE Chat + Viewers
-   * cookie:
-   * proxy:
-   * text:
-## Scrapping
-* Scrap Profile
-* Scrap Video Comment Count
-* Generate Real MsToken
-
-## FAQ
-**Q: I don't have any web cookies, what can I do ?**
-**R: You can buy Real Quality Cookies in mass by contacting me**
-**R: We can provide cookies for the interactions but cost will be higher , depending on usage**
-
-**Q: Are you giving free solutions ?**
-**R: No**
- 
+# TikTok Views
+### Tool running trough TikTok's mobile Api that lets users add views to their content.
+* Fully made in Golang
+* Bypasses Limitation
+* Issue : Data consuming
+* Proxyless
+<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/aedcad1a-e910-4801-91e0-63f604f1b249" />
+<img width="350" height="148" alt="image" src="https://github.com/user-attachments/assets/617ce77d-bc22-4336-9f29-35a0f98d6885" />
 
 
+
+### Contact :
+
+https://t.me/srcxd
